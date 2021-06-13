@@ -9,5 +9,4 @@ public class SpringCloudStreamsXmlToJsonApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringCloudStreamsXmlToJsonApplication.class, args);
     }
-
 }
